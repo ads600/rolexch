@@ -1,0 +1,34 @@
+body{
+  margin: 0pc;
+  padding:0px;
+}
+#page-head{
+  position:sticky;
+  top:-1px;
+  z-index:9;
+}
+#page-head.stuck{
+  background: red;
+}
+.header-text{
+  color: white;
+  
+}
+.banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .banner2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom:50px;
+  }
+  .text{
+text-align: center;
+    color: white;
+    font-size: 18px;
+    text-decoration: underline;
+  }
